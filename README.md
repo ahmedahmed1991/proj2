@@ -2,7 +2,7 @@
 
 <h2>Live URL </h2>
 
-<a href="p2.p1ahmed.me">p2.p1ahmed.me</a><br>
+<a href="http://p2.p1ahmed.me">http://p2.p1ahmed.me</a><br>
 
 
 <h2>Description</h2>
