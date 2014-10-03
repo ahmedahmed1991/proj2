@@ -9,7 +9,7 @@ ini_set('display_errors', 1);
 <html>
 <?php include('header.php'); ?>
 <boody>
-	<?include('content.php'); ?>
+	<?include('content.html'); ?>
 
 </body>
 <script type="text/javascript"></script>
